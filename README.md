@@ -1,5 +1,3 @@
-# futurecravings_microchallenge3
-
 # M I C R O ·  C H A L L E N G E  ·  I I I
 
 
