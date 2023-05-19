@@ -18,6 +18,7 @@ The installation will be an interactive experience to illustrate visuals, sounds
 
 
 
+
 ### B R A I N S T O R M I N G  &  I D E A S
 
 1. Dinner table with tableware moving around, as a different way of showing how the table could be set and with what during one of these concept dinners.
@@ -28,7 +29,7 @@ The installation will be an interactive experience to illustrate visuals, sounds
 
 
 ### S Y S T E M - D I A G R A M
-![](https://hackmd.io/_uploads/r1hdjn4H3.jpg)
+![r1hdjn4H3](https://github.com/samipiercy/futurecravings_microchallenge3/assets/115216167/96179593-5a96-40a6-a8dd-c3748bf1f786)
 
 ### P R O C E S S
 
@@ -44,7 +45,7 @@ S T E P  · 1 · **T E S T I N G - A R - A P P L I C A T I O N S**
 
 First, we tried using A Frame, and followed code that allowed you to scan from a Hiro image. This worked for the first part of the code which shows a cube in AR, but when trying to import our own 3D models into the code it wouldn't connect and show them. 
 
-![](https://hackmd.io/_uploads/rkL8vcQB2.jpg)
+![rkL8vcQB2](https://github.com/samipiercy/futurecravings_microchallenge3/assets/115216167/be560a20-ec25-429a-aa3d-db3d529ca76b)
 
 https://aframe.io/
 https://medium.com/arjs/augmented-reality-in-10-lines-of-html-4e193ea9fdbf
@@ -57,7 +58,8 @@ It has a library of free 3D models, it's free to create, publish and share – w
 
 When using Blippar you need to accept terms and are redirected to Blippars webpage before viewing an image. We had wished to use a platform where images are shown directly when scanning a code, but in this case we still chose to use Blippar due to being user friendly for beginners as we wanted to during this experience practice animation and understand how to use AR.
 
-![](https://hackmd.io/_uploads/r1sLpy4B3.jpg)
+
+![r1sLpy4B3](https://github.com/samipiercy/futurecravings_microchallenge3/assets/115216167/85563426-bb70-4a05-8a7d-cc2db1a9ee09)
 
 
 https://www.blippar.com/
@@ -79,7 +81,7 @@ This is the 3D model animated directly in Blippar, which we uploaded to SketchFa
 
 This can be tested out here with the QR code:
 
-![](https://hackmd.io/_uploads/r1ePklNrh.jpg)
+![r1ePklNrh](https://github.com/samipiercy/futurecravings_microchallenge3/assets/115216167/0bf075d6-4448-4f31-9b09-33eb978ac4f4)
 
 
 
@@ -120,20 +122,19 @@ The animation is then rendered into a video that can be uploaded directly to Bli
 To make an AR video in Blippar you create a profile, start a project, choose a qr code image, where you can choose your own or let Blippar generate one for you. When in your new project you press the plus button to upload a file and choose your video file. Drag it to the scene and scale it to desired size. 
    
    
-   ![](https://hackmd.io/_uploads/B1yRXnQS3.png)
+<img width="1421" alt="B1yRXnQS3" src="https://github.com/samipiercy/futurecravings_microchallenge3/assets/115216167/038742bd-4e84-4f0d-8a5c-be9d5016777c">
 
 
    
 To preview press Preview Project at the top right where you will be prompted to go through the steps of scanning the codes before seeing the project in AR. 
-![](https://hackmd.io/_uploads/S1uh3qmBh.jpg)
+
+![S1uh3qmBh](https://github.com/samipiercy/futurecravings_microchallenge3/assets/115216167/e2f24917-8fa4-4443-a2f1-1a2e9ac1551c)
 
 When happy with how it looks publish the project. The QR codes can then be placed where you want people to interact with them to view the AR experience directly with their phones. 
    
-   
-   
-![](https://hackmd.io/_uploads/Sypv9pQS2.png)
-
+ ![Sypv9pQS2](https://github.com/samipiercy/futurecravings_microchallenge3/assets/115216167/ead486ef-a57c-49dc-a6c9-137ecafc31ef)
   
+ 
    
 
 Example posters - This can be used on printed posters. With the QR code to access Blippars webpage and the AR code as an image. The animation starts as the image making it move when looking at it through your phone.
