@@ -71,13 +71,13 @@ The 3D model we used was created in Rhino - a dinner table with tableware in dif
 
 This is the 3D model animated directly in Blippar, which we uploaded to SketchFab. We were able to play around with creating a background scene, lighting, and directional movements. We then did a version of the table animated in blender. 
 
-<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
- padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
- border-radius: 8px; will-change: transform;">
-  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
-    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFjSpt4ug0&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
-  </iframe>
-</div>
+
+
+
+
+https://github.com/samipiercy/futurecravings_microchallenge3/assets/115216167/e3025ce3-9bd6-411c-88f6-a61c516eef10
+
+
 
 This can be tested out here with the QR code:
 
@@ -93,23 +93,14 @@ After importing the 3D file in OBJ format into Blender this tutorial (https://ww
 
 Different actions of rotation, location and scale were added to the different objects on the table. 
 
-<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
- padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
- border-radius: 8px; will-change: transform;">
-  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
-    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFjSB5Y0CE&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
-  </iframe>
-</div>
-<a 
 
-<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
- padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
- border-radius: 8px; will-change: transform;">
-  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
-    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFjSIf2ivM&#x2F;watch?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
-  </iframe>
-</div>
-<a 
+
+https://github.com/samipiercy/futurecravings_microchallenge3/assets/115216167/448f88e4-f12b-42f4-8dce-ba9390574c65
+
+
+
+https://github.com/samipiercy/futurecravings_microchallenge3/assets/115216167/0ca30889-f370-43cc-9802-2622001f7039
+
 
 
 S T E P  · 4 · **B L E N D E R - T O - B L I P P A R**
@@ -141,13 +132,7 @@ Example posters - This can be used on printed posters. With the QR code to acces
    
 
 
-<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
- padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
- border-radius: 8px; will-change: transform;">
-  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
-    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFjSJOo8Ns&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
-  </iframe>
-</div>
+https://github.com/samipiercy/futurecravings_microchallenge3/assets/115216167/8f652e30-3b76-4a5f-bf86-8ac06ede5fb2
 
 
 
@@ -162,52 +147,38 @@ By following some tutorials on how to use the program en ended creating cool ani
 After creating the animation, was able to create an instagram filter. This can be seen here:
 https://www.instagram.com/ar/259930709740588/?ch=NDhmZTNkNWE2NTJiODE2MmRiMjk2OTZlNDg1YTI0YmI%3D
    
-<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
- padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
- border-radius: 8px; will-change: transform;">
-  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
-    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFjRMTUMXw&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
-  </iframe>
-</div>
-<a 
+
+
+https://github.com/samipiercy/futurecravings_microchallenge3/assets/115216167/988e05c1-c71b-4f8b-9868-774e3efba5e6
+
 
 Other explorations:
    
-<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
- padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
- border-radius: 8px; will-change: transform;">
-  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
-    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFjSqky0vY&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
-  </iframe>
-</div>
+https://github.com/samipiercy/futurecravings_microchallenge3/assets/115216167/aff61303-ea96-4e8b-a78d-c55d7cac5a2c
+
 
 
 ##  F U R T H E R - E X P L O R A T I O N S
 
 The next step would be to make the table or moving objects be directly imported into AR. This way we can have free floating animated objects. Below the plant was built in Blender and coral was imported from SketchFab. Both were animated in blender and were able to be directly imported into Blippar as a .glb file. Only the scaling was able to be transferred, but not the rest of the animation. 
 
-<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
- padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
- border-radius: 8px; will-change: transform;">
-  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
-    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFjTSCEKtE&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
-  </iframe>
-</div>
+https://github.com/samipiercy/futurecravings_microchallenge3/assets/115216167/0af598fc-962f-4cbc-a747-08d4245394e3
 
 
-<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
- padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
- border-radius: 8px; will-change: transform;">
-  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
-    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFjTpcKreY&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
-  </iframe>
-</div>
+
+
+
+https://github.com/samipiercy/futurecravings_microchallenge3/assets/115216167/31ecf356-d303-4e4e-9b70-9e1e2a8397a7
+
+
+
 
 Coral SketchFab:
 https://sketchfab.com/3d-models/coral-c26e47859f0945d69a4e2944ee80b995
 
 Tutorial for plant:
 https://www.youtube.com/watch?v=Z1QG1FOvPk8&ab_channel=PolygonRunway
+
 
 
 
